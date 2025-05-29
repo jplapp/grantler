@@ -26,6 +26,7 @@ An intelligent Zulip bot that uses Google Vertex AI to automatically draft repli
 - Zulip account with API access
 - Google Cloud Project with Vertex AI enabled
 - Google Cloud credentials configured
+- Zulip needs to have draft synchronization enabled, [a patch is here](https://github.com/jplapp/zulip/tree/draftsync3)
 
 ### Installation
 
@@ -180,4 +181,4 @@ The bot consists of several modular components:
 
 ## License
 
-[Add your license information here]
+MIT
