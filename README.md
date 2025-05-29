@@ -4,7 +4,7 @@ An intelligent Zulip bot that uses Google Vertex AI to automatically draft repli
 
 ## Demo
 
-![Demo Video](output_trimmed.mp4)
+![Demo](output.gif)
 
 *Watch the bot in action: creating AI-powered draft replies for all conversations*
 
