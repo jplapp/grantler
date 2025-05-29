@@ -1,4 +1,4 @@
-# Zulip AI Bot
+# Grantler
 
 An intelligent Zulip bot that uses Google Vertex AI to automatically draft replies to your messages and provide summaries of unread content.
 
