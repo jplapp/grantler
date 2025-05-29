@@ -2,6 +2,12 @@
 
 An intelligent Zulip bot that uses Google Vertex AI to automatically draft replies to your messages and provide summaries of unread content.
 
+## Demo
+
+![Demo Video](output_trimmed.mp4)
+
+*Watch the bot in action: creating AI-powered draft replies for all conversations*
+
 ## Features
 
 1. **Automated Reply Drafting**: Fetches unread messages where you're mentioned or in private conversations, generates contextual replies using AI, and saves them as drafts in Zulip.
